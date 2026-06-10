@@ -1,4 +1,5 @@
 <img width="2560" height="640" alt="Sone0ne-readme-banner" src="https://github.com/user-attachments/assets/1946bfa0-7e60-4392-b2a5-f295efd0abcf" />
+<img width="960" height="720" alt="devemon-badge-Sone0ne" src="https://github.com/user-attachments/assets/71690372-2015-4f0f-b475-5469f09ec813" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne)](https://git.io/streak-stats)
 
