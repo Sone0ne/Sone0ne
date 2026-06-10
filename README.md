@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne&theme=tokyonight-duo&card_width=1024&card_height=256)](https://git.io/streak-stats)
 
-##Python Backend Developer (Intern / Junior)
+## Python Backend Developer (Intern / Junior)
 ```
 🔹 Learning backend development through Yandex Practicum course
 🔹 Physics and Mathematics focus in school (advanced Computer Science)
