@@ -9,6 +9,7 @@
 🔹 16 years old, ready for official employment
 🔹 Write clean code and follow PEP8
 ```
+```
 Technologies & Skills
 Languages: Python, SQL, Bash
 Frameworks: Django, (FastAPI, Flask – actively learning)
@@ -17,6 +18,7 @@ Tools: Git, Docker, Postman, VS Code / PyCharm
 Architecture & Paradigms: REST API, OOP (multithreading, asyncio – actively learning)
 Algorithms & Data Structures: sorting, graphs, hash tables, recursion
 Testing: Pytest, Unittest (basic level)
+```
 
 What I’m looking for
 GitHub: github.com/Sone0ne
