@@ -3,12 +3,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne)](https://git.io/streak-stats)
 
 Python Backend Developer (Intern / Junior)
-
+```
 🔹 Learning backend development through Yandex Practicum course
 🔹 Physics and Mathematics focus in school (advanced Computer Science)
 🔹 16 years old, ready for official employment
 🔹 Write clean code and follow PEP8
-
+```
 Technologies & Skills
 Languages: Python, SQL, Bash
 Frameworks: Django, (FastAPI, Flask – actively learning)
