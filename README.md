@@ -1,7 +1,5 @@
 <img width="2560" height="640" alt="Sone0ne-readme-banner" src="https://github.com/user-attachments/assets/1946bfa0-7e60-4392-b2a5-f295efd0abcf" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne&theme=tokyonight-duo&card_width=1024&card_height=256)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne)](https://git.io/streak-stats)
 ## Python Backend Developer (Intern / Junior)
 ```
 🔹 Learning backend development through Yandex Practicum course
@@ -26,3 +24,6 @@ GitHub: github.com/Sone0ne
 An internship or Junior developer position with mentoring.
 Ready to quickly complete tasks, not afraid of code reviews, and eager to learn from a strong team.
 Open to test assignments and ready to present code during interviews.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne&theme=tokyonight-duo&card_width=1024&card_height=256)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne)](https://git.io/streak-stats)
