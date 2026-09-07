@@ -26,4 +26,3 @@ Ready to quickly complete tasks, not afraid of code reviews, and eager to learn 
 Open to test assignments and ready to present code during interviews.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne&theme=tokyonight-duo&card_width=1024&card_height=256)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sone0ne)](https://git.io/streak-stats)
